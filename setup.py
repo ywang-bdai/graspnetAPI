@@ -12,7 +12,6 @@ setup(
     url='https://graspnet.net',
     packages=find_packages(),
     install_requires=[
-        'transforms3d==0.3.1',
         'open3d>=0.8.0.0',
         'trimesh',
         'Pillow',
